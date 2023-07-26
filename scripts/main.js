@@ -1,0 +1,3 @@
+lancerJeu()
+
+let  = document.getElementById()
